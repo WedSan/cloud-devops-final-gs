@@ -1,4 +1,4 @@
-<h1 align="center">Oralytics</h1>
+<h1 align="center">BeSafe</h1>
 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -24,11 +24,9 @@ Na BeSafe, as pessoas podem encontrar materiais educativos e dicas práticas sob
 de uma enchente. Nossa missão é empoderar a população com informações que ajudam na prevenção, no enfrentamento e
 na recuperação, protegendo vidas, lares e comunidades.
 
-## Video demonstração do projeto
-[VIDEO DEMONSTRAÇÃO](https://youtu.be/Ldp2I_8-uuw)
+## VIDEO Entregavel
+[VIDEO PROJETO](https://youtu.be/qXWeq2WXEKU)
 
-## Video PITCH do projeto
-[VIDEO PITCH](https://youtu.be/OKqI3D1RpQE)
 
 🚀 Acesse a Aplicação
 Você pode acessar a aplicação diretamente através do IP público abaixo:
