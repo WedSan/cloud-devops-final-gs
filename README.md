@@ -28,6 +28,8 @@ Você pode acessar a aplicação diretamente através do IP público abaixo:
 
 👉 http://20.246.224.138:8080/
 
+## 📐 Desenho arquitetura
+![](https://i.ibb.co/B2S0Bbdm/arquitetura-cloud-computing-v2.png)
 
 ## 🧠 Sobre o Projeto
 
